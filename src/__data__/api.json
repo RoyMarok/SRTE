@@ -1,0 +1,175 @@
+{
+    "properties": {
+        "isNew": false,
+        "rate": "6.5",
+        "rateGuarantyPeriodDays": "60",
+        "rateGuarantyPeriodMonths": "2",
+        "rateNextNew": "14.9",
+        "rateNextOld": "15.9",
+        "rateNonGuaranty": "28.5",
+        "depositPeriod": "55"
+    },
+    "fields": [
+        {
+            "id": "loanData:creditSum",
+            "value": "1234561",
+            "title": "Необходимая сумма кредита"
+        },
+        {
+            "id": "loanData:durationMonth",
+            "value": "13",
+            "referenceId": "MonthsDuration",
+            "title": "Срок кредита"
+        }
+    ],
+    "references": {
+        "MonthsDuration": {
+            "items": [
+                {
+                    "title": "1 месяц",
+                    "value": "1"
+                },
+                {
+                    "title": "2 месяца",
+                    "value": "2"
+                },
+                {
+                    "title": "3 месяца",
+                    "value": "3"
+                },
+                {
+                    "title": "4 месяца",
+                    "value": "4"
+                },
+                {
+                    "title": "5 месяцев",
+                    "value": "5"
+                },
+                {
+                    "title": "6 месяцев",
+                    "value": "6"
+                },
+                {
+                    "title": "7 месяцев",
+                    "value": "7"
+                },
+                {
+                    "title": "8 месяцев",
+                    "value": "8"
+                },
+                {
+                    "title": "9 месяцев",
+                    "value": "9"
+                },
+                {
+                    "title": "10 месяцев",
+                    "value": "10"
+                },
+                {
+                    "title": "11 месяцев",
+                    "value": "11"
+                },
+                {
+                    "title": "1 год",
+                    "value": "12"
+                },
+                {
+                    "title": "1 год 1 месяц",
+                    "value": "13"
+                },
+                {
+                    "title": "1 год 2 месяца",
+                    "value": "14"
+                },
+                {
+                    "title": "1 год 3 месяца",
+                    "value": "15"
+                },
+                {
+                    "title": "1 год 4 месяца",
+                    "value": "16"
+                },
+                {
+                    "title": "1 год 5 месяцев",
+                    "value": "17"
+                },
+                {
+                    "title": "1 год 6 месяцев",
+                    "value": "18"
+                },
+                {
+                    "title": "1 год 7 месяцев",
+                    "value": "19"
+                },
+                {
+                    "title": "1 год 8 месяцев",
+                    "value": "20"
+                },
+                {
+                    "title": "1 год 9 месяцев",
+                    "value": "21"
+                },
+                {
+                    "title": "1 год 10 месяцев",
+                    "value": "22"
+                },
+                {
+                    "title": "1 год 11 месяцев",
+                    "value": "23"
+                },
+                {
+                    "title": "2 года",
+                    "value": "24"
+                },
+                {
+                    "title": "2 года 1 месяц",
+                    "value": "25"
+                },
+                {
+                    "title": "2 года 2 месяца",
+                    "value": "26"
+                },
+                {
+                    "title": "2 года 3 месяца",
+                    "value": "27"
+                },
+                {
+                    "title": "2 года 4 месяца",
+                    "value": "28"
+                },
+                {
+                    "title": "2 года 5 месяцев",
+                    "value": "29"
+                },
+                {
+                    "title": "2 года 6 месяцев",
+                    "value": "30"
+                },
+                {
+                    "title": "2 года 7 месяцев",
+                    "value": "31"
+                },
+                {
+                    "title": "2 года 8 месяцев",
+                    "value": "32"
+                },
+                {
+                    "title": "2 года 9 месяцев",
+                    "value": "33"
+                },
+                {
+                    "title": "2 года 10 месяцев",
+                    "value": "34"
+                },
+                {
+                    "title": "2 года 11 месяцев",
+                    "value": "35"
+                },
+                {
+                    "title": "3 года",
+                    "value": "36"
+                }
+            ]
+        }
+    }
+}
